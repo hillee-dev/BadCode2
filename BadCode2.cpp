@@ -6,6 +6,21 @@
 
 //申请可以执行的内存    VirtualAlloc()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include <iostream>
 #include<vector>
 
