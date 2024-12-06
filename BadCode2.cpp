@@ -23,15 +23,19 @@
 
 #include <iostream>
 #include<vector>
+#include<cwchar>
+#include<windows.h>
 
 
 
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "zhongguo";
-    std::vector<int> v1{1, 2, 3};
-    std::cout << v1;
-    return 0;
+	const char* ptr = "hello world";
+	const wchar_t* ptr1 = L"world,hello";
+
+
+
+
+
 }
